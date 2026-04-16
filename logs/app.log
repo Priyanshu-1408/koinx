@@ -31,3 +31,29 @@
 {"level":"info","message":"Matching algorithm complete. Generated 8 results.","timestamp":"2026-04-16 22:36:39"}
 {"level":"info","message":"Generating report for runId: 95cc0cf9-7b9d-479c-b942-728d40acefb1","timestamp":"2026-04-16 22:36:39"}
 {"level":"info","message":"Report physically generated and saved to: C:\\Users\\hp\\Desktop\\koinx\\reports\\95cc0cf9-7b9d-479c-b942-728d40acefb1.csv","timestamp":"2026-04-16 22:36:40"}
+{"level":"info","message":"MongoDB Connected: ac-x3kzfjh-shard-00-01.2smmg1j.mongodb.net","timestamp":"2026-04-16 23:15:30"}
+{"level":"info","message":"Server running globally on port 3000","timestamp":"2026-04-16 23:15:30"}
+{"level":"info","message":"Starting ingestion for runId: d42c3a4c-5399-4d5b-b9fd-a204107a81e5","timestamp":"2026-04-16 23:16:55"}
+{"exchangeFlagged":2,"flaggedCount":3,"level":"info","message":"Ingestion complete. Flagged rows summary:","runId":"d42c3a4c-5399-4d5b-b9fd-a204107a81e5","timestamp":"2026-04-16 23:16:55","totalParsed":10,"userFlagged":1}
+{"level":"info","message":"Starting matching for runId: d42c3a4c-5399-4d5b-b9fd-a204107a81e5","timestamp":"2026-04-16 23:16:55"}
+{"level":"info","message":"Matching algorithm complete. Generated 8 results.","timestamp":"2026-04-16 23:16:55"}
+{"level":"info","message":"Generating report for runId: d42c3a4c-5399-4d5b-b9fd-a204107a81e5","timestamp":"2026-04-16 23:16:55"}
+{"level":"info","message":"Report physically generated and saved to: C:\\Users\\hp\\Desktop\\koinx\\reports\\d42c3a4c-5399-4d5b-b9fd-a204107a81e5.csv","timestamp":"2026-04-16 23:16:55"}
+{"level":"info","message":"Starting ingestion for runId: c6e42584-19c4-4550-af7b-9736532c542b","timestamp":"2026-04-16 23:35:19"}
+{"exchangeFlagged":2,"flaggedCount":3,"level":"info","message":"Ingestion complete. Flagged rows summary:","runId":"c6e42584-19c4-4550-af7b-9736532c542b","timestamp":"2026-04-16 23:35:19","totalParsed":10,"userFlagged":1}
+{"level":"info","message":"Starting matching for runId: c6e42584-19c4-4550-af7b-9736532c542b","timestamp":"2026-04-16 23:35:19"}
+{"level":"info","message":"Matching algorithm complete. Generated 8 results.","timestamp":"2026-04-16 23:35:19"}
+{"level":"info","message":"Generating report for runId: c6e42584-19c4-4550-af7b-9736532c542b","timestamp":"2026-04-16 23:35:19"}
+{"level":"info","message":"Report physically generated and saved to: C:\\Users\\hp\\Desktop\\koinx\\reports\\c6e42584-19c4-4550-af7b-9736532c542b.csv","timestamp":"2026-04-16 23:35:19"}
+{"level":"info","message":"Starting ingestion for runId: 05ea6212-af2d-4486-876d-6fc22e5cb252","timestamp":"2026-04-16 23:43:19"}
+{"exchangeFlagged":2,"flaggedCount":3,"level":"info","message":"Ingestion complete. Flagged rows summary:","runId":"05ea6212-af2d-4486-876d-6fc22e5cb252","timestamp":"2026-04-16 23:43:19","totalParsed":10,"userFlagged":1}
+{"level":"info","message":"Starting matching for runId: 05ea6212-af2d-4486-876d-6fc22e5cb252","timestamp":"2026-04-16 23:43:19"}
+{"level":"info","message":"Matching algorithm complete. Generated 8 results.","timestamp":"2026-04-16 23:43:19"}
+{"level":"info","message":"Generating report for runId: 05ea6212-af2d-4486-876d-6fc22e5cb252","timestamp":"2026-04-16 23:43:19"}
+{"level":"info","message":"Report physically generated and saved to: C:\\Users\\hp\\Desktop\\koinx\\reports\\05ea6212-af2d-4486-876d-6fc22e5cb252.csv","timestamp":"2026-04-16 23:43:19"}
+{"level":"info","message":"Starting ingestion for runId: a3da3289-9ae9-483b-9b04-8c675bb34c40","timestamp":"2026-04-16 23:45:06"}
+{"exchangeFlagged":2,"flaggedCount":3,"level":"info","message":"Ingestion complete. Flagged rows summary:","runId":"a3da3289-9ae9-483b-9b04-8c675bb34c40","timestamp":"2026-04-16 23:45:06","totalParsed":10,"userFlagged":1}
+{"level":"info","message":"Starting matching for runId: a3da3289-9ae9-483b-9b04-8c675bb34c40","timestamp":"2026-04-16 23:45:06"}
+{"level":"info","message":"Matching algorithm complete. Generated 8 results.","timestamp":"2026-04-16 23:45:06"}
+{"level":"info","message":"Generating report for runId: a3da3289-9ae9-483b-9b04-8c675bb34c40","timestamp":"2026-04-16 23:45:06"}
+{"level":"info","message":"Report physically generated and saved to: C:\\Users\\hp\\Desktop\\koinx\\reports\\a3da3289-9ae9-483b-9b04-8c675bb34c40.csv","timestamp":"2026-04-16 23:45:06"}

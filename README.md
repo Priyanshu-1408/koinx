@@ -13,7 +13,7 @@ The Transaction Reconciliation Engine is a robust, production-grade Node.js back
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Priyanshu-1408/koinx
 cd koinx
 ```
 
