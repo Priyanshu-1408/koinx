@@ -1,0 +1,33 @@
+{"level":"error","message":"Error connecting to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-04-16 21:10:38"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-04-16 21:11:55"}
+{"level":"info","message":"Server running globally on port 3000","timestamp":"2026-04-16 21:11:55"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-04-16 21:12:12"}
+{"level":"info","message":"Server running globally on port 3000","timestamp":"2026-04-16 21:12:12"}
+{"level":"info","message":"Starting ingestion for runId: c56ca427-5086-42c8-b1e7-c9d63305e336","timestamp":"2026-04-16 21:12:22"}
+{"exchangeFlagged":2,"flaggedCount":3,"level":"info","message":"Ingestion complete. Flagged rows summary:","runId":"c56ca427-5086-42c8-b1e7-c9d63305e336","timestamp":"2026-04-16 21:12:22","totalParsed":10,"userFlagged":1}
+{"level":"info","message":"Starting matching for runId: c56ca427-5086-42c8-b1e7-c9d63305e336","timestamp":"2026-04-16 21:12:22"}
+{"level":"info","message":"Matching algorithm complete. Generated 8 results.","timestamp":"2026-04-16 21:12:22"}
+{"level":"info","message":"Generating report for runId: c56ca427-5086-42c8-b1e7-c9d63305e336","timestamp":"2026-04-16 21:12:22"}
+{"level":"info","message":"Report physically generated and saved to: C:\\Users\\hp\\Desktop\\koinx\\reports\\c56ca427-5086-42c8-b1e7-c9d63305e336.csv","timestamp":"2026-04-16 21:12:22"}
+{"level":"info","message":"MongoDB Connected: ac-x3kzfjh-shard-00-00.2smmg1j.mongodb.net","timestamp":"2026-04-16 21:14:27"}
+{"level":"info","message":"Server running globally on port 3000","timestamp":"2026-04-16 21:14:27"}
+{"level":"info","message":"Starting ingestion for runId: af6f2f7e-43c1-4073-875b-c095fb97eafd","timestamp":"2026-04-16 21:19:30"}
+{"exchangeFlagged":2,"flaggedCount":3,"level":"info","message":"Ingestion complete. Flagged rows summary:","runId":"af6f2f7e-43c1-4073-875b-c095fb97eafd","timestamp":"2026-04-16 21:19:31","totalParsed":10,"userFlagged":1}
+{"level":"info","message":"Starting matching for runId: af6f2f7e-43c1-4073-875b-c095fb97eafd","timestamp":"2026-04-16 21:19:31"}
+{"level":"info","message":"Matching algorithm complete. Generated 8 results.","timestamp":"2026-04-16 21:19:31"}
+{"level":"info","message":"Generating report for runId: af6f2f7e-43c1-4073-875b-c095fb97eafd","timestamp":"2026-04-16 21:19:31"}
+{"level":"info","message":"Report physically generated and saved to: C:\\Users\\hp\\Desktop\\koinx\\reports\\af6f2f7e-43c1-4073-875b-c095fb97eafd.csv","timestamp":"2026-04-16 21:19:31"}
+{"level":"info","message":"Starting ingestion for runId: d0aafc7f-283e-40c5-a943-25c7e6e08c99","timestamp":"2026-04-16 22:17:50"}
+{"exchangeFlagged":2,"flaggedCount":3,"level":"info","message":"Ingestion complete. Flagged rows summary:","runId":"d0aafc7f-283e-40c5-a943-25c7e6e08c99","timestamp":"2026-04-16 22:17:50","totalParsed":10,"userFlagged":1}
+{"level":"info","message":"Starting matching for runId: d0aafc7f-283e-40c5-a943-25c7e6e08c99","timestamp":"2026-04-16 22:17:50"}
+{"level":"info","message":"Matching algorithm complete. Generated 8 results.","timestamp":"2026-04-16 22:17:50"}
+{"level":"info","message":"Generating report for runId: d0aafc7f-283e-40c5-a943-25c7e6e08c99","timestamp":"2026-04-16 22:17:50"}
+{"level":"info","message":"Report physically generated and saved to: C:\\Users\\hp\\Desktop\\koinx\\reports\\d0aafc7f-283e-40c5-a943-25c7e6e08c99.csv","timestamp":"2026-04-16 22:17:51"}
+{"level":"info","message":"MongoDB Connected: ac-x3kzfjh-shard-00-02.2smmg1j.mongodb.net","timestamp":"2026-04-16 22:35:25"}
+{"level":"info","message":"Server running globally on port 3000","timestamp":"2026-04-16 22:35:25"}
+{"level":"info","message":"Starting ingestion for runId: 95cc0cf9-7b9d-479c-b942-728d40acefb1","timestamp":"2026-04-16 22:36:39"}
+{"exchangeFlagged":2,"flaggedCount":3,"level":"info","message":"Ingestion complete. Flagged rows summary:","runId":"95cc0cf9-7b9d-479c-b942-728d40acefb1","timestamp":"2026-04-16 22:36:39","totalParsed":10,"userFlagged":1}
+{"level":"info","message":"Starting matching for runId: 95cc0cf9-7b9d-479c-b942-728d40acefb1","timestamp":"2026-04-16 22:36:39"}
+{"level":"info","message":"Matching algorithm complete. Generated 8 results.","timestamp":"2026-04-16 22:36:39"}
+{"level":"info","message":"Generating report for runId: 95cc0cf9-7b9d-479c-b942-728d40acefb1","timestamp":"2026-04-16 22:36:39"}
+{"level":"info","message":"Report physically generated and saved to: C:\\Users\\hp\\Desktop\\koinx\\reports\\95cc0cf9-7b9d-479c-b942-728d40acefb1.csv","timestamp":"2026-04-16 22:36:40"}
