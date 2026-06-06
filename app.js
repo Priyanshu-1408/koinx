@@ -20,6 +20,8 @@ app.use((err, req, res, next) => {
   });
 });
 
+//i need to understand the middleware flow 
+
 export default app;
 
 
